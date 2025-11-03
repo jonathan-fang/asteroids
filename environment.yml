@@ -1,0 +1,4 @@
+name: asteroids
+channels:
+  - defaults
+prefix: /home/jfang/miniconda3/envs/asteroids
